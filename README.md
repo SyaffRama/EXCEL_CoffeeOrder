@@ -27,4 +27,7 @@ This project demonstrates **data analysis using Microsoft Excel**, covering data
 - Produced a clean, structured dataset  
 - Built interactive dashboards for sales and order analysis  
 - Identified trends in product performance and customer behavior  
-- Delivered a clear, business-ready Excel analysis  
+- Delivered a clear, business-ready Excel analysis
+
+<img width="1770" height="848" alt="image" src="https://github.com/user-attachments/assets/66aba8a1-b16e-4c0f-9f01-23662140431d" />
+
